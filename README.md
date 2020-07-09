@@ -2,16 +2,16 @@
 
 ### Who are you 🤨?
 
-I'm Jan! I'm an aspiring Web-Developer which found his passion in coding.
+I'm __Jan__! I'm an aspiring __Web-Developer__ which found his passion in coding.
 
 ### What are you learning/doing at the moment 🧐?
 
 Though Question! There are a lot of things I'm currently doing. But I've made a list for you:
 
-* I'm focusing on learning vanilla JavaScript. 
-* I'm also improving my UI/UX Design skills together with CSS.
-* Another thing I'm doing is to network with other developer on Twitter and I try to grow a "little" community.
-* As a fan of the "Feynman Technique" I'm also already trying to mentor/teach people, which have less knowledge than me.
+* I'm focusing on learning __vanilla JavaScript__. 
+* I'm also improving my UI/UX __Design__ skills together with CSS.
+* Another thing I'm doing is to __network with other developers__ on Twitter and I try to grow a "little" community.
+* As a fan of the "Feynman Technique" I'm also already trying to __mentor/teach people__, which have less knowledge than me.
 
 When it comes to picking a framework I already made a decision: React. But before learning React I want to have a good knowledge of vanilla JavaScript and how it's working behind the scenes.
 
@@ -27,6 +27,13 @@ If have a lot of projects, since I'm using them to learn! Well... are they cool?
 I also have Design projects! You can view them on my website.
 
 _Just because some projects are finished for now it doesn't mean that they're completely finished. Some projects may still have some bugs to fix and of course you also could add some new features!_
+
+### What are your goals 🎯?
+
+* Earning my own money as a Web-Developer in 2021
+* Studying CS at an University
+* Meeting new developer all-around the globe
+* Mentoring rookies
 
 <!--
 **JanBur96/JanBur96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
