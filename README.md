@@ -28,7 +28,7 @@ If have plenty of projects, since that's how I learn - by doing projects! Well..
 
 I likewise have Design projects! You can view them on my website.
 
-_Just because some projects are finished for now, it doesn't mean that they're completely finished. Certain projects may still have bug fixes left and of course, could also have added some new features to them!__
+_Just because some projects are finished for now, it doesn't mean that they're completely finished. Certain projects may still have bug fixes left and of course, could also have added some new features to them!_
 
 ---
 
