@@ -39,10 +39,16 @@ _Just because some projects are finished for now it doesn't mean that they're co
 * Meeting new developer all-around the globe.
 * Mentoring rookies.
 
+---
+
 ### How can I contact you 📞?
 
 Feel free to contact me on my __website__! But you can also contact me on __twitter__ if you want to (profile in Bio).
 
+---
+
+
+#### Funfact: Counting from zero in real life when you're with non-developers is leading to strange looks.
 
 <!--
 **JanBur96/JanBur96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
