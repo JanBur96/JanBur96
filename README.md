@@ -1,4 +1,4 @@
-# Helllloooo and welcome to my GitHub page 👋🏼
+# Hello and welcome to my GitHub page 👋🏼
 
 ### Who are you?
 
