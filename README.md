@@ -1,4 +1,7 @@
-### Hi there 👋
+# Helllloooo and welcome to my GitHub page 👋🏼
+
+### Who are you?
+
 
 <!--
 **JanBur96/JanBur96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
