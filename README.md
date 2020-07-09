@@ -19,16 +19,16 @@ When it comes to picking a framework I already made a decision: React. But befor
 
 ### Do you have any cool projects you can show us 🤓?
 
-If have a lot of projects, since I'm using them to learn! Well... are they cool? I don't know I let you decide:
+If have plenty of projects, since that's how I learn - by doing projects! Well... are they cool? I don't know you can check them out for yourself and decide:
 
 * My own Website (🚧).
 * Exchange Rate Calculator (✅).
 * Rock-Paper-Scissors Game (✅).
 * Tic-Tac-Toe Game (✅).
 
-I also have Design projects! You can view them on my website.
+I likewise have Design projects! You can view them on my website.
 
-_Just because some projects are finished for now it doesn't mean that they're completely finished. Some projects may still have some bugs to fix and of course you also could add some new features!_
+_Just because some projects are finished for now, it doesn't mean that they're completely finished. Certain projects may still have bug fixes left and of course, could also have added some new features to them!__
 
 ---
 
@@ -36,19 +36,19 @@ _Just because some projects are finished for now it doesn't mean that they're co
 
 * Earning my own money as a Web-Developer in 2021.
 * Studying CS at an University.
-* Meeting new developer all-around the globe.
+* Meeting and getting to know developers all-around the globe.
 * Mentoring rookies.
 
 ---
 
 ### How can I contact you 📞?
 
-Feel free to contact me on my __website__! But you can also contact me on __twitter__ if you want to (profile in Bio).
+Feel free to contact me on my __website__! But you can also contact me on __twitter__ if you like to (profile in Bio).
 
 ---
 
 
-#### Funfact: Counting from zero in real life when you're with non-developers is leading to strange looks.
+#### Funfact: Counting from zero in real life when you're with non-developers leads to strange looks.
 
 <!--
 **JanBur96/JanBur96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
