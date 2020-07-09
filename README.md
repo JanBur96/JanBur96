@@ -19,7 +19,7 @@ When it comes to picking a framework I already made a decision: React. But befor
 
 ### Do you have any cool projects you can show us 🤓?
 
-If have plenty of projects, since that's how I learn - by doing projects! Well... are they cool? I don't know you can check them out for yourself and decide:
+I have plenty of projects, since that's how I learn - by doing projects! Well... are they cool? I don't know you can check them out for yourself and decide:
 
 * My own Website (🚧).
 * Exchange Rate Calculator (✅).
