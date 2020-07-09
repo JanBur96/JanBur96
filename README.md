@@ -19,10 +19,10 @@ When it comes to picking a framework I already made a decision: React. But befor
 
 If have a lot of projects, since I'm using them to learn! Well... are they cool? I don't know I let you decide:
 
-* My own Website (🚧)
-* Exchange Rate Calculator (✅)
-* Rock-Paper-Scissors Game (✅)
-* Tic-Tac-Toe Game (✅)
+* My own Website (🚧).
+* Exchange Rate Calculator (✅).
+* Rock-Paper-Scissors Game (✅).
+* Tic-Tac-Toe Game (✅).
 
 I also have Design projects! You can view them on my website.
 
@@ -30,10 +30,15 @@ _Just because some projects are finished for now it doesn't mean that they're co
 
 ### What are your goals 🎯?
 
-* Earning my own money as a Web-Developer in 2021
-* Studying CS at an University
-* Meeting new developer all-around the globe
-* Mentoring rookies
+* Earning my own money as a Web-Developer in 2021.
+* Studying CS at an University.
+* Meeting new developer all-around the globe.
+* Mentoring rookies.
+
+### How can I contact you 📞?
+
+Feel free to contact me on my __website__! But you can also contact me on __twitter__ if you want to (profile in Bio).
+
 
 <!--
 **JanBur96/JanBur96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
