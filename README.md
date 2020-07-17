@@ -21,10 +21,12 @@ When it comes to picking a framework I already made a decision: React. But befor
 
 I have plenty of projects, since that's how I learn - by doing projects! Well... are they cool? I don't know you can check them out for yourself and decide:
 
-* My own Website (🚧).
-* Exchange Rate Calculator (✅) - https://janbur96.github.io/Exchange-Rate-Calculator/
-* Rock-Paper-Scissors Game (✅) - https://janbur96.github.io/Rock-Paper-Scissors/
+* My own Website (🚧)
+
+* WeatherApp (✅) - https://janbur96.github.io/WeatherApp/
 * Tic-Tac-Toe Game (✅) - https://janbur96.github.io/Tic-Tac-Toe/
+* Rock-Paper-Scissors Game (✅) - https://janbur96.github.io/Rock-Paper-Scissors/
+* Exchange Rate Calculator (✅) - https://janbur96.github.io/Exchange-Rate-Calculator/
 
 I likewise have Design projects! You can view them on my website.
 
