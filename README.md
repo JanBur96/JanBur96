@@ -24,6 +24,7 @@ I have plenty of projects, since that's how I learn - by doing projects! Well...
 * My own Website (🚧)
 
 * WeatherApp (✅) - https://janbur96.github.io/WeatherApp/
+* To-Do List (✅) - https://janbur96.github.io/To-Do-List/
 * Tic-Tac-Toe Game (✅) - https://janbur96.github.io/Tic-Tac-Toe/
 * Rock-Paper-Scissors Game (✅) - https://janbur96.github.io/Rock-Paper-Scissors/
 * Exchange Rate Calculator (✅) - https://janbur96.github.io/Exchange-Rate-Calculator/
