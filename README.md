@@ -21,7 +21,7 @@ When it comes to picking a framework I already made a decision: React. But befor
 
 I have plenty of projects, since that's how I learn - by doing projects! Well... are they cool? I don't know you can check them out for yourself and decide:
 
-* My own Website (🚧)
+* My own Website (✅) - https://jan-web.dev
 
 * WeatherApp (✅) - https://janbur96.github.io/WeatherApp/
 * To-Do List (✅) - https://janbur96.github.io/To-Do-List/
