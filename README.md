@@ -2,13 +2,13 @@
 
 ### Who are you 🤨?
 
-I'm __Jan__! I'm an aspiring __Web-Developer__ which found his passion in coding.
+I'm __Jan__! I'm a __Web-Developer__ which found his passion in coding.
 
 ### What are you learning/doing at the moment 🧐?
 
 Tough Question! There are a lot of things I'm currently doin, but I've made a list for you:
 
-* I'm focusing on learning __vanilla JavaScript__. 
+* I'm focusing on learning __React__. 
 * I'm also improving my UI/UX __Design__ skills together with CSS.
 * Another thing I'm doing is to __network with other developers__ on Twitter and try to grow a "little" community.
 * As a fan of the "Feynman Technique" I'm already trying to __mentor/teach developers__, which have less knowledge than me.
