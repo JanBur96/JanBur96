@@ -1,3 +1,7 @@
+[![Jan LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/jan-philipp-burghardt-5178081a8/)
+
+[![Jan Twitter](https://img.shields.io/twitter/follow/jackdomleo7?style=social)](https://twitter.com/Sephtyi)
+
 # Hello and welcome to my GitHub page 👋🏼
 
 ### Who are you 🤨?
