@@ -1,12 +1,8 @@
-[![Jan LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/jan-philipp-burghardt-5178081a8/)
-
-[![Jan Twitter](https://img.shields.io/twitter/follow/Jan?style=social)](https://twitter.com/Sephtyi)
-
 # Hello and welcome to my GitHub page 👋🏼
 
 ### Who are you 🤨?
 
-I'm __Jan__! I'm a __Web-Developer__ which found his passion in coding.
+I'm __Jan__! I'm a __Web Developer__ which found his passion in coding.
 
 ### What are you learning/doing at the moment 🧐?
 
@@ -17,22 +13,21 @@ Tough Question! There are a lot of things I'm currently doin, but I've made a li
 * Another thing I'm doing is to __network with other developers__ on Twitter and try to grow a "little" community.
 * As a fan of the "Feynman Technique" I'm already trying to __mentor/teach developers__, which have less knowledge than me.
 
-When it comes to picking a framework I already made a decision: React. But before learning React I want to have a good knowledge of vanilla JavaScript and how it's working behind the scenes.
+I'm also interested in learning __VUE__.
 
 ---
 
 ### Do you have any cool projects you can show us 🤓?
 
-I have plenty of projects, since that's how I learn - by doing projects! Well... are they cool? I don't know you can check them out for yourself and decide:
+I have plenty of projects, since that's how I learn - by doing projects! Well... are they cool or good? I don't know you can check them out for yourself and decide:
 
 * My own Website (✅) - https://jan-web.dev
 
-* To-Do List (✅) - https://janbur96.github.io/To-Do-List/
-* Tic-Tac-Toe Game (✅) - https://janbur96.github.io/Tic-Tac-Toe/
+* Task-List (✅) - https://task-list.jan-web.dev/
+* Visit OWL (✅) - https://janbur96.github.io/Visit-OWL/
 * Rock-Paper-Scissors Game (✅) - https://janbur96.github.io/Rock-Paper-Scissors/
-* Exchange Rate Calculator (✅) - https://janbur96.github.io/Exchange-Rate-Calculator/
 
-I likewise have Design projects! You can view them on my website.
+And there are plenty more! Just check out my repositories here on GitHub.
 
 _Just because some projects are finished for now, it doesn't mean that they're completely finished. Certain projects may still have bug fixes left and of course, could also have added some new features to them!_
 
@@ -40,7 +35,7 @@ _Just because some projects are finished for now, it doesn't mean that they're c
 
 ### What are your goals 🎯?
 
-* Earning my own money as a Web-Developer in 2021.
+* Earning my own money as a Web Developer in 2021.
 * Studying CS at an University.
 * Meeting and getting to know developers all-around the globe.
 * Mentoring rookies.
@@ -49,12 +44,8 @@ _Just because some projects are finished for now, it doesn't mean that they're c
 
 ### How can I contact you 📞?
 
-Feel free to contact me on my __website__! But you can also contact me on __twitter__ if you like to (profile in Bio).
+Feel free to contact me on my __website__! But you can also contact me on __Twitter__ or __LinkedIn__ if you like to.
 
----
-
-
-#### Funfact: Counting from zero in real life when you're with non-developers leads to strange looks.
 
 <!--
 **JanBur96/JanBur96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
