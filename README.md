@@ -13,7 +13,7 @@ Tough Question! There are a lot of things I'm currently doin, but I've made a li
 * Another thing I'm doing is to __network with other developers__ on Twitter and try to grow a "little" community.
 * As a fan of the "Feynman Technique" I'm already trying to __mentor/teach developers__, which have less knowledge than me.
 
-I'm also interested in learning __VUE__.
+I'm also interested in learning __Vue__.
 
 ---
 
