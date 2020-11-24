@@ -2,18 +2,18 @@
 
 ### Who are you 🤨?
 
-I'm __Jan__! I'm a __Web Developer__ which found his passion in coding.
+I'm __Jan__! I'm a __Web Developer__ which found his passion in coding. My Motto is: I can't learn everything... but I will try my best to learn as much as possible!
 
 ### What are you learning/doing at the moment 🧐?
 
 Tough Question! There are a lot of things I'm currently doin, but I've made a list for you:
 
-* I'm focusing on learning the __MERN Stack__. 
-* I'm also improving my UI/UX __Design__ skills together with CSS.
-* Another thing I'm doing is to __network with other developers__ on Twitter and try to grow a "little" community.
+* I'm focusing on learning __Vue, Nuxt, NodeJS and MongoDB__ for Fullstack Development. 
+* I'm also learning __Python__ on the side (as a "hobby") since I'm curious about how Automation and Machine Learning with Python works.
+* Another thing I'm doing is to __network with other developers__ on Twitter and LinkedIn and try to grow a "little" community.
 * As a fan of the "Feynman Technique" I'm already trying to __mentor/teach developers__, which have less knowledge than me.
 
-I'm also interested in learning __Vue__.
+I'm also interested in learning __Figma/Adobe XD__ for __wireframing__.
 
 ---
 
@@ -26,6 +26,8 @@ I have plenty of projects, since that's how I learn - by doing projects! Well...
 * Task-List (✅) - https://task-list.jan-web.dev/
 * Visit OWL (✅) - https://janbur96.github.io/Visit-OWL/
 * Rock-Paper-Scissors Game (✅) - https://janbur96.github.io/Rock-Paper-Scissors/
+
+__Fullstack Projects are coming soon__
 
 And there are plenty more! Just check out my repositories here on GitHub.
 
