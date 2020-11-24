@@ -1,44 +1,63 @@
-## Hello and welcome, I'm Jan 👋
+# Hello and welcome to my GitHub page 👋🏼
 
-### I'm in love with the Front- and Backend!
+### Who are you 🤨?
 
-- ♾️ I'm always learning JavaScript (Vanilla, Vue and Node)
-- 📖 I'm basically learning everything else I find interesting as well 😁
-- 🤝 Goals: Using my friendship with coding as a way to earn money **and** as a hobby
-- 🧔 1 Fact about me: I'm literally addicted to Coding/CS related stuff, please help 🙃
+I'm __Jan__! I'm a __Web Developer__ which found his passion in coding.
 
-### Let's have a chat:
+### What are you learning/doing at the moment 🧐?
 
-<br />
+Tough Question! There are a lot of things I'm currently doin, but I've made a list for you:
 
-[<img src="https://img.icons8.com/fluent/48/000000/globe.png" width="30px" alt="website icon (globe)" />](https://jan-web.dev)
-[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px" alt="twitter icon" />](https://twitter.com/sephtyi)
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px" alt="linkedin icon" />](https://www.linkedin.com/in/jan-philipp-burghardt-5178081a8/)
+* I'm focusing on learning the __MERN Stack__. 
+* I'm also improving my UI/UX __Design__ skills together with CSS.
+* Another thing I'm doing is to __network with other developers__ on Twitter and try to grow a "little" community.
+* As a fan of the "Feynman Technique" I'm already trying to __mentor/teach developers__, which have less knowledge than me.
 
-<br />
-
-### Languages and Tools:
-
-<br />
-
-**Core Skills**
-
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5 logo" width="30px"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css logo" width="30px"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="html5 logo" width="30px"/>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="javascript logo" width="30px"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="vue logo" width="30px"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="nodejs logo" width="30px"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass logo" width="30px"/>
-<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github logo" width="30px" />
-<img src="https://img.icons8.com/ios-filled/64/000000/command-line.png" alt="command line logo" width="30px" />
-
-<br />
-<br />
-
-**Hobby / Side Skills**
-
-<img src="https://img.icons8.com/color/48/000000/python.png" width=30px/>
+I'm also interested in learning __Vue__.
 
 ---
-<a href="https://icons8.com">Icons by Icons8.</a>
+
+### Do you have any cool projects you can show us 🤓?
+
+I have plenty of projects, since that's how I learn - by doing projects! Well... are they cool or good? I don't know you can check them out for yourself and decide:
+
+* My own Website (✅) - https://jan-web.dev
+
+* Task-List (✅) - https://task-list.jan-web.dev/
+* Visit OWL (✅) - https://janbur96.github.io/Visit-OWL/
+* Rock-Paper-Scissors Game (✅) - https://janbur96.github.io/Rock-Paper-Scissors/
+
+And there are plenty more! Just check out my repositories here on GitHub.
+
+_Just because some projects are finished for now, it doesn't mean that they're completely finished. Certain projects may still have bug fixes left and of course, could also have added some new features to them!_
+
+---
+
+### What are your goals 🎯?
+
+* Earning my own money as a Web Developer in 2021.
+* Studying CS at an University.
+* Meeting and getting to know developers all-around the globe.
+* Mentoring rookies.
+
+---
+
+### How can I contact you 📞?
+
+Feel free to contact me on my __website__! But you can also contact me on __Twitter__ or __LinkedIn__ if you like to.
+
+
+<!--
+**JanBur96/JanBur96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
